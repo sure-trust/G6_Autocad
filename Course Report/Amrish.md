@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: Design of the parts of mechanical equipments    | [https://github.com/sure-trust/G6_Autocad/tree/main/Mini%20Projects/Amrish]                         |
+| Mini Projects: Design of the parts of mechanical equipments    | [Click here](https://github.com/sure-trust/G6_Autocad/tree/main/Mini%20Projects/Amrish)                        |
 | Final Project: Design of the Toy car    | [click here](https://github.com/sure-trust/G6_Autocad/tree/main/Final%20Capstone%20Project/Amrish/Project)                        |
