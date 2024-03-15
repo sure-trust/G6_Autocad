@@ -13,7 +13,7 @@
 
 ## Name: Vaibhav Ghule
 
-## Qualifications: Pursuing 4th year B.E
+## Qualifications: Pursuing 4th year BE
 
 Welcome to the course report for the AutoCad & Solidworks for Mechanical Engineers! This README document provides an overview of the course, its mini projects and final project.
 
@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: Assignments     | [Click here](https://github.com/sure-trust/G6_Autocad/tree/main/Mini%20Projects/vaibhav)                         |
-| Final Project: Forklift design     | [click here](https://github.com/sure-trust/G6_Autocad/tree/main/Final%20Capstone%20Project)                         |
+| Mini Projects: Assignments                |[click here](https://github.com/sure-trust/G6_Autocad/tree/main/Mini%20Projects/vaibhav)                                         |
+| Final Project: Forklift Design            |[click here](https://github.com/sure-trust/G6_Autocad/tree/main/Final%20Capstone%20Project/vaibhav/Forklift)                                        |
