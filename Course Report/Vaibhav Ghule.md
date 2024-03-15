@@ -13,7 +13,7 @@
 
 ## Name: Vaibhav Ghule
 
-## Qualifications: Pursuing 4th year B.E.
+## Qualifications: Pursuing 4th year B.E
 
 Welcome to the course report for the AutoCad & Solidworks for Mechanical Engineers! This README document provides an overview of the course, its mini projects and final project.
 
