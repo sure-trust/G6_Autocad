@@ -12,8 +12,7 @@
 # Course Report
 
 ## Name: Sakshi Jadhav
-
-## Qualifications: Third Year Mechanical Engineering 
+## Qualifications: Third Year Mechanical Enigineering
 
 Welcome to the course report for the AutoCad & Solidworks for Mechanical Engineers! This README document provides an overview of the course, its mini projects and final project.
 
@@ -23,5 +22,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: Assignments     | https://github.com/SAKSHIJADHAV23/G6_Autocad/tree/main/Mini%20Projects/Sakshi            |
-| Final Project: Design of Tricycle Using Solidworks    | https://github.com/SAKSHIJADHAV23/G6_Autocad/tree/main/Final%20Capstone%20Project/Sakshi                     |
+| Mini Projects: Assignments   | https://github.com/SAKSHIJADHAV23/G6_Autocad/tree/main/Mini%20Projects/Sakshi                        |
+| Final Project: Tricycle Design   | https://github.com/SAKSHIJADHAV23/G6_Autocad/tree/main/Final%20Capstone%20Project/Sakshi               |
