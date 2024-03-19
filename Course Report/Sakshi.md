@@ -22,5 +22,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: Assignments   |  https://github.com/sure-trust/G6_Autocad/tree/main/Mini%20Projects/Sakshi  |
-| Final Project: Tricycle Design   |https://github.com/sure-trust/G6_Autocad/tree/main/Final%20Capstone%20Project/Sakshi    |
+| Mini Projects: Assignments   |  [Click Here](https://github.com/sure-trust/G6_Autocad/tree/main/Mini%20Projects/Sakshi)  |
+| Final Project: Tricycle Design   |[Click Here](https://github.com/sure-trust/G6_Autocad/tree/main/Final%20Capstone%20Project/Sakshi)    |
