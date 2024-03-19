@@ -19,7 +19,13 @@ SURE Trust is a registered NGO committed to eradicating the disparity between sk
 
 To enroll in the Autocad, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses)
 
-
+|Student Name|Link|
+|------------|----|
+|Amrish|[Click Here](https://github.com/sure-trust/G6_Autocad/blob/main/Course%20Report/Amrish.md)|
+|Pallavi|[Click Here](https://github.com/sure-trust/G6_Autocad/blob/main/Course%20Report/Pallavi.md)|
+|Parameswara Rao|[Click Here](https://github.com/sure-trust/G6_Autocad/blob/main/Course%20Report/Parameswara%20rao.md)|
+|Sakshi|[Click Here](https://github.com/sure-trust/G6_Autocad/blob/main/Course%20Report/Sakshi.md)|
+|Vaibhav|[Click Here](https://github.com/sure-trust/G6_Autocad/blob/main/Course%20Report/Vaibhav.md)|
 
 ## Repository Description
 
